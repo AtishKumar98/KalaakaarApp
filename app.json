@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Kalaakaar Business",
+    "slug": "Kalaakaar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Business-logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Business-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Business-logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.atishkumar98.MyProject"
+    },
+    "web": {
+      "favicon": "./assets/Business-logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1a69151a-c344-443f-9a19-bbc402d974a1"
+      }
+    },
+    "owner": "atishkumar98"
+  }
+}
